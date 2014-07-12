@@ -1,3 +1,7 @@
 Exit Evernote for AllwaySync,
 otherwise windows file privillege 
 makes errors.
+
+try to edit for some difference
+
+###
